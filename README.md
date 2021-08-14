@@ -13,5 +13,6 @@ Para qualquer dúvida contate:
 vitor.mendes@ieee.org*
 
 ### Cloning the repository
-
+...
 $ git clone https://github.com/vitorsmends/rasweekend
+...
